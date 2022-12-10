@@ -18,6 +18,7 @@
 `au` stands for "Add User".
 #### `Params:`
 `${NEW USER}` a new user's name. Example, `MyNewUser`.
+
 `${NEW PASSWORD}` a new user's password. Example, `MyNewPassword`.
 
 
