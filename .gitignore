@@ -1,0 +1,6 @@
+*.zip
+package-lock.json
+node_modules
+bookmarks
+users/kenyon.json
+bookmark.js
