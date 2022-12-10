@@ -1,6 +1,9 @@
 # Bible Fake OS
  A fake Linux-like Node.JS OS
 
+# How to Run:
+Run `npm i` in the root folder. Then run `npm start`.
+
 # Login Info:
 ## `root`
 Name: `root`
