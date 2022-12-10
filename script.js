@@ -2,8 +2,7 @@ const fs = require("fs");
 const bcrypt = require('bcryptjs');
 const { fetch } = "node-fetch";
 
-var user = "root";
-var users = ["root", "kenyon"]
+var user;
 
 var cmds = [
     {
