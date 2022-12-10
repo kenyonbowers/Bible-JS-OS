@@ -1,4 +1,8 @@
 {
+  "main": "script.js",
+  "scripts": {
+    "start": "node ."
+  },
   "devDependencies": {
     "@types/node": "^18.11.12"
   },
