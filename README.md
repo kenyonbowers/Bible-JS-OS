@@ -1,6 +1,7 @@
 # Bible Fake OS
  A fake Linux-like Node.JS OS
 
+# Commands:
 
 ## `vv`
 `vv` stands for "View Verse".
