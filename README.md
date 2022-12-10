@@ -1,6 +1,11 @@
 # Bible Fake OS
  A fake Linux-like Node.JS OS
 
+# Login Info:
+## `root`
+Name: `root`
+Password: `RootPassword`
+
 # Commands:
 
 ## `vv`
