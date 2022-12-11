@@ -17,8 +17,8 @@ Password: `RootPassword`
 `${VERSE}` a verse reference. Example, `John 3:16`.
 
 
-## `sw`
-`sw` stands for "Switch User".
+## `su`
+`su` stands for "Switch User".
 #### `Params:`
 `${USER}` a user. Example, `root`.
 
